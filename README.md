@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:008F11&height=200&section=header&text=cybersec-automation-scripts&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automating%20the%20art%20of%20ethical%20hacking&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:008F11&height=200&section=header&text=Cybersec-automation-scripts&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automating%20the%20art%20of%20ethical%20hacking&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Recon.+Enumerate.+Exploit.+Report.;Built+on+Kali+Linux+%F0%9F%90%89;Bash+%2B+Python+Automation+Scripts;Ethical+Hacking+%7C+OSINT+%7C+Defense)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Recon.+Enumerate.+Exploit.+Report.;Built+on+Kali+Linux+🐉;Bash+%2B+Python+Automation+Scripts;Ethical+Hacking+%7C+OSINT+%7C+Defense)](https://git.io/typing-svg)
 
 <br/>
 
-![GitHub stars](https://img.shields.io/github/stars/YOURUSERNAME/cybersec-automation-scripts?style=for-the-badge&color=00ff41&labelColor=0d0d0d)
-![GitHub forks](https://img.shields.io/github/forks/YOURUSERNAME/cybersec-automation-scripts?style=for-the-badge&color=00ff41&labelColor=0d0d0d)
-![GitHub issues](https://img.shields.io/github/issues/YOURUSERNAME/cybersec-automation-scripts?style=for-the-badge&color=ff4444&labelColor=0d0d0d)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOURUSERNAME/cybersec-automation-scripts?style=for-the-badge&color=00ff41&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/Status-In_Progress-00ff41?style=for-the-badge&labelColor=0d0d0d)
+![Scripts](https://img.shields.io/badge/Scripts-14_Planned-00ff41?style=for-the-badge&labelColor=0d0d0d)
+![Phases](https://img.shields.io/badge/Phases-5-00ff41?style=for-the-badge&labelColor=0d0d0d)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&labelColor=0d0d0d)
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -154,15 +154,15 @@ cybersec-automation-scripts/
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 Tools used across scripts: `nmap` `subfinder` `amass` `whois` `dig` `gobuster` `nikto` `nuclei` `sqlmap` `curl` `ffuf`
 
 ---
-
 
 ## ⚠️ Disclaimer
 
